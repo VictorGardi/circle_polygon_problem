@@ -1,2 +1,3 @@
-# circle_polygon_problem
-Given a circle, what's the probability of an area determined by x number of random points lying on the circle is covering the middle point of the circle?
+# Circle polygon problem
+This repo gives an empirical solution to the question:
+What's the probability than polygon, determined by x number of random points lying on an circle, contains the middle point of the circle?
